@@ -1,2 +1,6 @@
 @import "tailwindcss";
 
+.size{
+    padding: 10px;
+    box-sizing: border-box;
+}
