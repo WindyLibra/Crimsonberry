@@ -2,7 +2,7 @@ import '@/globals.css'
 
 export default function Footer(){
     return(
-        <footer className='w-full'>
+        <footer className='w-full fixed bottom-0 z-50'>
             <div className='flex mx-auto sizer justify-between items-center'> 
                 <img src="/house-solid.svg" width={20} height={20} alt="" />
                 <img src="/magnifying-glass-solid.svg" width={20} height={20} alt="" />

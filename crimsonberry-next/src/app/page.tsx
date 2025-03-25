@@ -4,7 +4,7 @@ import Footer from '@/components/footer';
 
 export default function Page() {
   return (
-      <div className='flex-col flex min-h-screen'>
+      <div className='flex-col flex'>
 
         <Header text="Home" />
 
