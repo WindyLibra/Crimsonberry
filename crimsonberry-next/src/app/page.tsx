@@ -9,10 +9,10 @@ export default function Page() {
         <Header text="Home" />
 
           <main className="flex-grow">
-
+              
           </main>
 
-        <Footer />
+        <Footer icon='home'/>
 
       </div>
   )
